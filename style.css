@@ -1,4 +1,4 @@
-/* Reset + Base styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -35,7 +35,7 @@ main {
   border-radius: 8px;
 }
 
-/* Forms */
+
 form {
   display: flex;
   flex-direction: column;
@@ -58,7 +58,7 @@ button:hover {
   color: red;
 }
 
-/* Listings */
+
 .listing-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
